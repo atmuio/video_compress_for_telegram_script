@@ -1,0 +1,27 @@
+# File video generici
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+
+# File temporanei
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Cartelle di sistema
+.DS_Store
+Thumbs.db
+
+# File di configurazione personali
+config.local.bat
+config.local.sh
+
+# Cartelle di output dei video compressi
+output/
+compressed/

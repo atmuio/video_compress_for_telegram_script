@@ -1,0 +1,7 @@
+# Dipendenze base per l'interfaccia grafica (tkinter è incluso nelle installazioni standard di Python)
+# Nessuna dipendenza esterna necessaria per l'interfaccia di base
+
+# Se la GUI sarà estesa con funzionalità aggiuntive, potrebbe richiedere:
+# opencv-python>=4.5.0  # Per elaborazione video avanzata
+# numpy>=1.21.0         # Per calcoli numerici
+# pillow>=8.0.0         # Per elaborazione delle immagini
